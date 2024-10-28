@@ -1,0 +1,57 @@
+.red-bar {
+    background-color: rgb(218, 28, 28);
+    height: 100px;
+    width:100%;
+  }
+  .blue-block {
+    background-color: rgb(22, 54, 231);
+    height: 50px;
+    width:100%;
+  }
+  .light-blue-block {
+    background-color: rgb(126, 202, 228);
+    width: 20%;
+    height: 200px;
+    float: left; 
+  }
+  .purple-block {
+    background-color: purple;
+    width: 50%;
+    height: 200px;
+    float:left;
+  }
+  .yellow-block {
+    background-color: yellow;
+    width: 30%;
+    height: 100px;
+    float: right;
+  }
+  .green-block {
+    background-color: rgb(61, 175, 61);
+    height: 100px;
+    width: 30%;
+    float:right;
+  }
+  .dark-blue-block {
+    background-color: rgb(91, 91, 160);
+    height: 200px;
+    width: 20%;
+    float:left;
+    
+  }
+  .kb { background-color: rgb(51, 68, 51);
+    height: 400px;
+    width: 80%;
+    float:right;}
+    .k1 {
+        background-color: rgb(114, 212, 69);
+        height: 200px;
+        width: 20%;
+        float:right;
+    }
+    .k2 {
+        background-color: rgb(79, 169, 185);
+        height: 200px;
+        width: 100%;
+        float:right;
+    }

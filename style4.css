@@ -1,0 +1,102 @@
+body{margin: 0;
+height: 0;}
+nav {
+    background-color: #f2f2f2;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
+    font-size: 16px;
+}
+
+.fa {
+    font-size: 20px;
+}
+
+
+
+.ptre {background-color: yellow;
+    width: 100%;
+    height: 50px;
+    
+}  
+.box1 {background-color: yellow;
+    width: 5%;
+    height: 400px;
+    float: left;
+} 
+
+.box2 {background-color: rgb(62, 207, 42);
+    width: 30%;
+    height: 400px;
+float:left }
+.box3 {background-color: yellow;
+    width: 5%;
+    height: 400px;
+float:left }
+.box4 {background-color: yellow;
+    width: 55%;
+    height: 400px;
+float:left }
+.box5 {background-color: yellow;
+    width: 5%;
+    height: 400px;
+float:left }
+.box6 {background-color:yellow;
+    width: 100%;
+    height: 50px;
+float:left }
+.hero {
+    background-color: #FFD700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 30vh;}         
+    .hero-content {
+        text-align: center;
+    }
+    
+    .hero h2 {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+    
+    .hero p {
+        color: #333;
+        line-height: 1.5;
+    }
+    
+    .btn {
+        background-color: #000000;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+    .box7{background-color:rgb(151, 78, 9);
+        width: 100%;
+        height: 80px;
+    float:left}
+    .container {
+        text-align: center;
+    }
+    
+    .recipe {
+        display: inline-block;
+        width: 200px;
+        margin: 20px;
+        text-align: center;
+    }
+    
+    .recipe img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+   
